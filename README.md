@@ -18,7 +18,7 @@
 
 - 👨‍💻 I am currently working on **[Medical Center Website](https://github.com/faiyaz103/KUETMedicalCenter)**
 - 🌐 I am currently working with **Laravel**
-- 🌱 I'm currently learning **React.JS**
+- 🌱 I'm currently learning **Vue.JS**
 
 ---
 
