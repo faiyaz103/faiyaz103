@@ -14,9 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=faiyaz103&label=Profile%20views&color=0e75b6&style=flat" alt="faiyaz103" />
 </p>
 
-- 👨‍💻 I am currently working on **[Medical Center Website](https://github.com/faiyaz103/KUETMedicalCenter)**
-- 🌐 I am currently working with **Laravel**
-- 🌱 I'm currently learning **Vue.JS**
+- 👨‍💻 I am currently working on **Inventory Management System**
+- 🌐 I am currently working with **Laravel and Vue.JS**
+- 🌱 I'm currently learning **Machine Learning**
 
 ---
 
