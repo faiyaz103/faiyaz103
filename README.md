@@ -46,6 +46,7 @@
 #### **Backend:**
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" width="80" height="30"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" width="80" height="30"/>
 </p>
 
 #### **Mobile Application Development:**
