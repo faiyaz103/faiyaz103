@@ -15,7 +15,7 @@
 </p>
 
 - 👨‍💻 I am currently working on **Inventory Management System**
-- 🌐 I am currently working with **Laravel and Vue.JS**
+- 🌐 I am currently working with **NestJS, Laravel and VueJS**
 - 🌱 I'm currently learning **Machine Learning**
 
 ---
