@@ -14,10 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=faiyaz103&label=Profile%20views&color=0e75b6&style=flat" alt="faiyaz103" />
 </p>
 
-- 👨‍💻 I am currently working on **Inventory Management System**
-- 🌐 I am currently working with **NestJS, Laravel and VueJS**
-- 🌱 I'm currently learning **Machine Learning**
-
 ---
 
 ### Technologies and Tools
