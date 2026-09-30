@@ -20,7 +20,7 @@
 
 - 💻 Currently examining **Backend Architectures**
 - 🌱 Currently exploring **Machine Learning**
-- 🛠️ **Microservice Architecture**, **RabbitMQ**, **Redis**, **Elasticsearch**
+- 🛠️ **Domain-Driven Design**, **Modular Monolith Architecture**, **Microservices**
 
 ---
 
