@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Faiyaz Mahmud! </h1>
-<h3 align="center"> CSE Undergrad | Backend </h3>
+<h3 align="center"> CSE Graduate | Backend </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faiyaz-mahmud27" target="_blank">
